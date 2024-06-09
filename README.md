@@ -1,7 +1,7 @@
 # Tars offline-stateless GPT
 
 It is uses The facebook Meta Llama and AstroJS.
-[live](https://www.google.com)
+[live](https://tars-gold.vercel.app/)
 
 Techstacks:
 
